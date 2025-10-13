@@ -188,7 +188,6 @@ test.describe("Admin > Extensions > Catalog", () => {
       badgeLabel: "Plugin still in development",
       badgeText: "Tech preview (TP)",
       tooltipText: "",
-      searchTerm: "Bulk Import",
       headings: ["About", "Versions", ...commonHeadings],
       includeTable: true,
       includeAbout: false,
